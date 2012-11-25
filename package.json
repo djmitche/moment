@@ -42,5 +42,6 @@
     "scripts": {
         "test": "make test"
     },
-    "ender": "./ender.js"
+    "ender": "./ender.js",
+    "dojoBuild": "package.js"
 }
